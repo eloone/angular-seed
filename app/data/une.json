@@ -1,0 +1,313 @@
+
+{
+	"data":[{
+		"id":1822162,
+		"titre":"Les entreprises mondiales int\u00e8grent le risque du changement climatique",
+		"titre_une":"Les entreprises mondiales int\u00e8grent le risque du changement climatique",
+		"tetiere":null,
+		"tetiere_une":null,
+		"source":"Le Monde.fr",
+		"nature_editoriale":null,
+		"description":"Les grands groupes se disent plus conscients que jamais des risques climatiques qui p\u00e8sent sur leur activit\u00e9. Mais redoutent le manque de pr\u00e9paration de leurs fournisseurs.",
+		"type":{
+			"id":4,
+			"nom":"article",
+			"libelle":"Article"
+		},
+		"date_premiere_publication":"2013-01-24T15:46:48+01:00",
+		"date_publication":"2013-01-24T15:46:48+01:00",
+		"date_creation":"2013-01-24T14:26:24+01:00",
+		"nb_reactions":0,
+		"illustration_src":"img/1789406_5_1590_l-ouragan-sandy-a-coute-des-dizaines-de_c961dc52a70acd6e2f6d02aa752b482c.jpg",
+		"restreint":false,
+		"atome_uniquement":false,
+		"url_friendly":"les-entreprises-mondiales-integrent-le-risque-du-changement-climatique",
+		"back_id":"1822162:article:eyJ0aXRyZSI6IkxlcyBlbnRyZXByaXNlcyBtb25kaWFsZXMgaW50XHUwMGU4Z3JlbnQgbGUgcmlzcXVlIGR1IGNoYW5nZW1lbnQgY2xpbWF0aXF1ZSJ9",
+		"link":"\/planete\/article\/2013\/01\/24\/les-entreprises-mondiales-integrent-le-risque-du-changement-climatique_1822162_3244.html",
+		"link_reactions":"\/planete\/reactions\/2013\/01\/24\/les-entreprises-mondiales-integrent-le-risque-du-changement-climatique_1822162_3244.html",
+		"facebook_likes":0,
+		"signatures":[],
+		"element_data":{
+			"auteur":"Gr\u00e9goire Allix"
+		}
+	},{
+	"id":1819492,
+	"titre":"Julia Vignali super maman",
+	"titre_une":"Julia Vignali super maman",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"LE MONDE TELEVISION",
+	"nature_editoriale":{
+		"nom":"portrait",
+		"libelle":"Portrait"
+	},
+	"description":"Julia Vignali a succ\u00e9d\u00e9 en septembre 2012 \u00e0 Daphn\u00e9 B\u00fcrki sur \"Les Maternelles\" de France 5, o\u00f9 elle a r\u00e9ussi \u00e0 imposer son style et \u00e0 s'\u00e9panouir. Avec l'ambition de faire grandir cette \u00e9mission dont le succ\u00e8s, depuis sa cr\u00e9ation en septembre 2001, ne se d\u00e9ment pas.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T15:36:24+01:00",
+	"date_publication":"2013-01-24T15:46:42+01:00",
+	"date_creation":"2013-01-19T11:20:43+01:00",
+	"nb_reactions":0,
+	"illustration_src":"",
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"julia-vignali-super-maman",
+	"back_id":"1819492:article:eyJ0aXRyZSI6Ikp1bGlhIFZpZ25hbGkgc3VwZXIgbWFtYW4ifQ==",
+	"link":"\/culture\/article\/2013\/01\/24\/julia-vignali-super-maman_1819492_3246.html",
+	"link_reactions":"\/culture\/reactions\/2013\/01\/24\/julia-vignali-super-maman_1819492_3246.html",
+	"facebook_likes":null,
+	"signatures":[],
+	"element_data":{
+		"auteur":"Olivier Herviaux"
+	}
+},{
+	"id":1822214,
+	"titre":"Le nombre de morts sur les routes en France chute de 8 % en 2012",
+	"titre_une":"Le nombre de morts sur les routes en France chute de 8 % en 2012",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"LE MONDE",
+	"nature_editoriale":null,
+	"description":"En 2012, 3 645 personnes ont trouv\u00e9 la mort sur les routes. Le ministre de l'int\u00e9rieur, Manuel Valls, a annonc\u00e9 qu'il reportait sine die les sanctions concernant la non-d\u00e9tention d'un \u00e9thylotest.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T15:35:05+01:00",
+	"date_publication":"2013-01-24T15:49:23+01:00",
+	"date_creation":"2013-01-24T15:13:26+01:00",
+	"nb_reactions":0,
+	"illustration_src":"img/1789406_5_1590_l-ouragan-sandy-a-coute-des-dizaines-de_c961dc52a70acd6e2f6d02aa752b482c.jpg",
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"le-nombre-de-morts-sur-les-routes-en-france-chute-de-8",
+	"back_id":"1822214:article:eyJ0aXRyZSI6IkxlIG5vbWJyZSBkZSBtb3J0cyBzdXIgbGVzIHJvdXRlcyBlbiBGcmFuY2UgY2h1dGUgZGUgOCAlIGVuIDIwMTIifQ==",
+	"link":"\/societe\/article\/2013\/01\/24\/le-nombre-de-morts-sur-les-routes-en-france-chute-de-8_1822214_3224.html",
+	"link_reactions":"\/societe\/reactions\/2013\/01\/24\/le-nombre-de-morts-sur-les-routes-en-france-chute-de-8_1822214_3224.html",
+	"facebook_likes":0,
+	"signatures":[],
+	"element_data":{
+		"auteur":"Rafa\u00eble Rivais"
+	}
+},{
+	"id":1822141,
+	"titre":"Ouvrons l'\u0153il",
+	"titre_une":"Ouvrons l'\u0153il",
+	"tetiere":"Chronique",
+	"tetiere_une":null,
+	"source":"LE MONDE",
+	"nature_editoriale":{
+		"nom":"chronique",
+		"libelle":"Chronique"
+	},
+	"description":"Comment pr\u00e9venir les troubles de la vision, notamment lorsque l'on fait un usage quotidien des \u00e9crans ? Lunettes ou myrtilles ?",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T15:23:09+01:00",
+	"date_publication":"2013-01-24T15:23:09+01:00",
+	"date_creation":"2013-01-24T13:07:31+01:00",
+	"nb_reactions":0,
+	"illustration_src":"img/1366289_3_5e93_un-homme-prend-une-paire-de-lunettes-sur-un_e4f0c30baa779d12a828b30165d8ebb7.jpg",
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"ouvrons-l-il",
+	"back_id":"1822141:article:eyJ0aXRyZSI6Ik91dnJvbnMgbCdcdTAxNTNpbCJ9",
+	"link":"\/vous\/article\/2013\/01\/24\/ouvrons-l-il_1822141_3238.html",
+	"link_reactions":"\/vous\/reactions\/2013\/01\/24\/ouvrons-l-il_1822141_3238.html",
+	"facebook_likes":0,
+	"signatures":[],
+	"element_data":{
+		"auteur":"Marl\u00e8ne Duretz (C'est tout Net !)"
+	}
+},{
+	"id":1822135,
+	"titre":"Demain, c'est Big Brother qui conduit",
+	"titre_une":"Demain, c'est Big Brother qui conduit",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"LE MONDE",
+	"nature_editoriale":null,
+	"description":"Elle conna\u00eetra le trajet, \u00e9vitera les obstacles, s'int\u00e9grera dans le flux de la circulation... L'auto sans chauffeur, qui semble relever encore de la science-fiction, roulera bient\u00f4t dans les rues.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T15:12:17+01:00",
+	"date_publication":"2013-01-24T15:12:17+01:00",
+	"date_creation":"2013-01-24T13:07:24+01:00",
+	"nb_reactions":0,
+	"illustration_src":1822212,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"demain-c-est-big-brother-qui-conduit",
+	"back_id":"1822135:article:eyJ0aXRyZSI6IkRlbWFpbiwgYydlc3QgQmlnIEJyb3RoZXIgcXVpIGNvbmR1aXQifQ==",
+	"link":"\/vous\/article\/2013\/01\/24\/demain-c-est-big-brother-qui-conduit_1822135_3238.html",
+	"link_reactions":"\/vous\/reactions\/2013\/01\/24\/demain-c-est-big-brother-qui-conduit_1822135_3238.html",
+	"facebook_likes":0,
+	"signatures":[],
+	"element_data":{
+		"auteur":"Olivier Razemon"
+	}
+},{
+	"id":1822163,
+	"titre":"\"Menace imminente contre les Occidentaux \u00e0 Benghazi\", selon Londres",
+	"titre_une":"\"Menace imminente contre les Occidentaux \u00e0 Benghazi\", selon Londres",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"Le Monde.fr avec AFP",
+	"nature_editoriale":null,
+	"description":"\"Nous sommes au courant d'une menace sp\u00e9cifique et imminente contre les Occidentaux \u00e0 Benghazi et demandons aux Britanniques qui y sont d'en partir imm\u00e9diatement\", a annonc\u00e9 le minist\u00e8re des affaires \u00e9trang\u00e8res britannique.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T15:05:59+01:00",
+	"date_publication":"2013-01-24T15:05:59+01:00",
+	"date_creation":"2013-01-24T14:26:35+01:00",
+	"nb_reactions":0,
+	"illustration_src":1822166,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"menace-imminente-contre-les-occidentaux-a-benghazi-selon-londres",
+	"back_id":"1822163:article:eyJ0aXRyZSI6IlwiTWVuYWNlIGltbWluZW50ZSBjb250cmUgbGVzIE9jY2lkZW50YXV4IFx1MDBlMCBCZW5naGF6aVwiLCBzZWxvbiBMb25kcmVzIn0=",
+	"link":"\/libye\/article\/2013\/01\/24\/menace-imminente-contre-les-occidentaux-a-benghazi-selon-londres_1822163_1496980.html",
+	"link_reactions":"\/libye\/reactions\/2013\/01\/24\/menace-imminente-contre-les-occidentaux-a-benghazi-selon-londres_1822163_1496980.html",
+	"facebook_likes":0,
+	"signatures":[],
+	"element_data":{
+		"auteur":null
+	}
+},{
+	"id":1822167,
+	"titre":"Faut-il \"un vrai chef en France pour remettre de l'ordre\" ?",
+	"titre_une":"Faut-il \"un vrai chef en France pour remettre de l'ordre\" ?",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"Le Monde.fr",
+	"nature_editoriale":null,
+	"description":"\"Le Monde\" a fait r\u00e9agir six responsables politiques face \u00e0 la demande d'autorit\u00e9 exprim\u00e9e dans une enqu\u00eate exclusive.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T14:46:14+01:00",
+	"date_publication":"2013-01-24T14:46:14+01:00",
+	"date_creation":"2013-01-24T14:35:17+01:00",
+	"nb_reactions":0,
+	"illustration_src":1822070,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"faut-il-un-vrai-chef-en-france-pour-remettre-de-l-ordre",
+	"back_id":"1822167:article:eyJ0aXRyZSI6IkZhdXQtaWwgXCJ1biB2cmFpIGNoZWYgZW4gRnJhbmNlIHBvdXIgcmVtZXR0cmUgZGUgbCdvcmRyZVwiID8ifQ==",
+	"link":"\/politique\/article\/2013\/01\/24\/faut-il-un-vrai-chef-en-france-pour-remettre-de-l-ordre_1822167_823448.html",
+	"link_reactions":"\/politique\/reactions\/2013\/01\/24\/faut-il-un-vrai-chef-en-france-pour-remettre-de-l-ordre_1822167_823448.html",
+	"facebook_likes":20,
+	"signatures":[],
+	"element_data":{
+		"auteur":null
+	}
+},{
+	"id":1822165,
+	"titre":"La justice fran\u00e7aise ordonne \u00e0 Twitter d'aider \u00e0 identifier les auteurs de tweets litigieux ",
+	"titre_une":"La justice fran\u00e7aise ordonne \u00e0 Twitter d'aider \u00e0 identifier les auteurs de tweets litigieux ",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"Le Monde.fr",
+	"nature_editoriale":null,
+	"description":"Le r\u00e9seau social am\u00e9ricain avait \u00e9t\u00e9 assign\u00e9 en r\u00e9f\u00e9r\u00e9 par l'Union des \u00e9tudiants juifs de France et d'autres associations, apr\u00e8s la diffusion en octobre de tweets antis\u00e9mites.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T14:45:27+01:00",
+	"date_publication":"2013-01-24T15:32:15+01:00",
+	"date_creation":"2013-01-24T14:33:33+01:00",
+	"nb_reactions":3,
+	"illustration_src":1623493,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"la-justice-francaise-ordonne-a-twitter-d-aider-a-identifier-les-auteurs-de-tweets-litigieux",
+	"back_id":"1822165:article:eyJ0aXRyZSI6IkxhIGp1c3RpY2UgZnJhblx1MDBlN2Fpc2Ugb3Jkb25uZSBcdTAwZTAgVHdpdHRlciBkJ2FpZGVyIFx1MDBlMCBpZGVudGlmaWVyIGxlcyBhdXRldXJzIGRlIHR3ZWV0cyBsaXRpZ2lldXggIn0=",
+	"link":"\/technologies\/article\/2013\/01\/24\/la-justice-francaise-ordonne-a-twitter-d-aider-a-identifier-les-auteurs-de-tweets-litigieux_1822165_651865.html",
+	"link_reactions":"\/technologies\/reactions\/2013\/01\/24\/la-justice-francaise-ordonne-a-twitter-d-aider-a-identifier-les-auteurs-de-tweets-litigieux_1822165_651865.html",
+	"facebook_likes":56,
+	"signatures":[],
+	"element_data":{
+		"auteur":null
+	}
+},{
+	"id":1822148,
+	"titre":"Avoir une capuche et pas de sac renforce le risque d'un contr\u00f4le au faci\u00e8s",
+	"titre_une":"Avoir une capuche et pas de sac renforce le risque d'un contr\u00f4le au faci\u00e8s",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"Le Monde.fr avec AFP",
+	"nature_editoriale":null,
+	"description":"Outre la couleur de la peau, plusieurs facteurs li\u00e9s au sexe, \u00e0 l'\u00e2ge et \u00e0 la tenue vestimentaire renforcent ou amoindrissent le risque d'\u00eatre soumis \u00e0 une v\u00e9rification d'identit\u00e9, selon une \u00e9tude pr\u00e9sent\u00e9e jeudi.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T14:05:57+01:00",
+	"date_publication":"2013-01-24T14:27:26+01:00",
+	"date_creation":"2013-01-24T13:21:59+01:00",
+	"nb_reactions":2,
+	"illustration_src":1822161,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"avoir-une-capuche-et-pas-de-sac-renforce-le-risque-d-un-controle-au-facies",
+	"back_id":"1822148:article:eyJ0aXRyZSI6IkF2b2lyIHVuZSBjYXB1Y2hlIGV0IHBhcyBkZSBzYWMgcmVuZm9yY2UgbGUgcmlzcXVlIGQndW4gY29udHJcdTAwZjRsZSBhdSBmYWNpXHUwMGU4cyJ9",
+	"link":"\/societe\/article\/2013\/01\/24\/avoir-une-capuche-et-pas-de-sac-renforce-le-risque-d-un-controle-au-facies_1822148_3224.html",
+	"link_reactions":"\/societe\/reactions\/2013\/01\/24\/avoir-une-capuche-et-pas-de-sac-renforce-le-risque-d-un-controle-au-facies_1822148_3224.html",
+	"facebook_likes":81,
+	"signatures":[],
+	"element_data":{
+		"auteur":null
+	}
+},{
+	"id":1822068,
+	"titre":"Nouvelle enqu\u00eate du r\u00e9gulateur britannique dans l'affaire du Libor",
+	"titre_une":"Nouvelle enqu\u00eate du r\u00e9gulateur britannique dans l'affaire du Libor",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"Le Monde.fr avec AFP",
+	"nature_editoriale":null,
+	"description":"L'Autorit\u00e9 des march\u00e9s financiers britannique enqu\u00eate de pr\u00e8s sur l'implication possible du courtier interbancaire ICAP dans des manipulations du Libor &#8211; une information confirm\u00e9e par ce dernier.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T14:03:42+01:00",
+	"date_publication":"2013-01-24T14:28:53+01:00",
+	"date_creation":"2013-01-24T12:18:16+01:00",
+	"nb_reactions":0,
+	"illustration_src":1104630,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"nouvelle-enquete-du-regulateur-britannique-dans-l-affaire-du-libor",
+	"back_id":"1822068:article:eyJ0aXRyZSI6Ik5vdXZlbGxlIGVucXVcdTAwZWF0ZSBkdSByXHUwMGU5Z3VsYXRldXIgYnJpdGFubmlxdWUgZGFucyBsJ2FmZmFpcmUgZHUgTGlib3IifQ==",
+	"link":"\/economie\/article\/2013\/01\/24\/nouvelle-enquete-du-regulateur-britannique-dans-l-affaire-du-libor_1822068_3234.html",
+	"link_reactions":"\/economie\/reactions\/2013\/01\/24\/nouvelle-enquete-du-regulateur-britannique-dans-l-affaire-du-libor_1822068_3234.html",
+	"facebook_likes":2,
+	"signatures":[],
+	"element_data":{
+		"auteur":null
+	}
+}],
+"offset":0,
+"limit":10,
+"data_count":10
+}

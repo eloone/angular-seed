@@ -3,10 +3,15 @@
 /* Controllers */
 
 
-function MyCtrl1() {}
-MyCtrl1.$inject = [];
-
-
-function MyCtrl2() {
+function CtrlUne($scope, $http) {
+	$http.get('data/une.json').success(function(query) {
+	 $scope.elements = query.data;
+	 $scope.firstElement = query.data.slice(0,1);
+	 $scope.flowElements = query.data.slice(1);
+  });
 }
-MyCtrl2.$inject = [];
+
+
+function CtrlRubrique() {
+}
+

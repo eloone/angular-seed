@@ -1,18 +1,42 @@
 /* app css stylesheet */
+header{
+	border:1px solid black;
+	width:1000px;
+	box-sizing: border-box;
+}
 
+header h1{
+	padding:30px;
+}
+
+.site_container{
+	width:1000px;
+	margin: 0 auto 0 auto;
+}
+
+.prev{
+	position: absolute;
+	top:50%;
+	left:15px;		
+}
+
+.next{
+	position: absolute;
+	top:50%;
+	right:15px;
+}
+
+.view{
+	border:1px solid blue;
+}
+
+/*Angular stuff*/
 .menu {
   list-style: none;
-  border-bottom: 0.1em solid black;
   margin-bottom: 2em;
   padding: 0 0 0.5em;
-}
-
-.menu:before {
-  content: "[";
-}
-
-.menu:after {
-  content: "]";
+  background: #ddd;
+  padding:10px;
 }
 
 .menu > li {
