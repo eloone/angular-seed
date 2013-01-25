@@ -1,0 +1,320 @@
+
+{
+	"data":[{
+		"id":1822214,
+		"titre":"Le nombre de morts sur les routes en France chute de 8 % en 2012",
+		"titre_une":"Le nombre de morts sur les routes en France chute de 8 % en 2012",
+		"tetiere":null,
+		"tetiere_une":null,
+		"source":"LE MONDE",
+		"nature_editoriale":null,
+		"description":"En 2012, 3 645 personnes ont trouv\u00e9 la mort sur les routes. Le ministre de l'int\u00e9rieur, Manuel Valls, a annonc\u00e9 qu'il reportait \"sine die\" les sanctions concernant la non-d\u00e9tention d'un \u00e9thylotest.",
+		"type":{
+			"id":4,
+			"nom":"article",
+			"libelle":"Article"
+		},
+		"date_premiere_publication":"2013-01-24T15:35:05+01:00",
+		"date_publication":"2013-01-24T17:59:37+01:00",
+		"date_creation":"2013-01-24T15:13:26+01:00",
+		"nb_reactions":1,
+		"illustration_id":1679830,
+		"restreint":false,
+		"atome_uniquement":false,
+		"url_friendly":"le-nombre-de-morts-sur-les-routes-en-france-chute-de-8",
+		"back_id":"1822214:article:eyJ0aXRyZSI6IkxlIG5vbWJyZSBkZSBtb3J0cyBzdXIgbGVzIHJvdXRlcyBlbiBGcmFuY2UgY2h1dGUgZGUgOCAlIGVuIDIwMTIifQ==",
+		"link":"\/societe\/article\/2013\/01\/24\/le-nombre-de-morts-sur-les-routes-en-france-chute-de-8_1822214_3224.html",
+		"link_reactions":"\/societe\/reactions\/2013\/01\/24\/le-nombre-de-morts-sur-les-routes-en-france-chute-de-8_1822214_3224.html",
+		"facebook_likes":13,
+		"signatures":[],
+		"element_data":{
+			"auteur":"Rafa\u00eble Rivais"
+		}
+	},{
+	"id":1822141,
+	"titre":"Ouvrons l'\u0153il",
+	"titre_une":"Ouvrons l'\u0153il",
+	"tetiere":"Chronique",
+	"tetiere_une":null,
+	"source":"LE MONDE",
+	"nature_editoriale":{
+		"nom":"chronique",
+		"libelle":"Chronique"
+	},
+	"description":"Comment pr\u00e9venir les troubles de la vision, notamment lorsque l'on fait un usage quotidien des \u00e9crans ? Lunettes ou myrtilles ?",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T15:23:09+01:00",
+	"date_publication":"2013-01-24T15:23:09+01:00",
+	"date_creation":"2013-01-24T13:07:31+01:00",
+	"nb_reactions":0,
+	"illustration_id":1366289,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"ouvrons-l-il",
+	"back_id":"1822141:article:eyJ0aXRyZSI6Ik91dnJvbnMgbCdcdTAxNTNpbCJ9",
+	"link":"\/vous\/article\/2013\/01\/24\/ouvrons-l-il_1822141_3238.html",
+	"link_reactions":"\/vous\/reactions\/2013\/01\/24\/ouvrons-l-il_1822141_3238.html",
+	"facebook_likes":1,
+	"signatures":[],
+	"element_data":{
+		"auteur":"Marl\u00e8ne Duretz (C'est tout Net !)"
+	}
+},{
+	"id":1822135,
+	"titre":"Demain, c'est Big Brother qui conduit",
+	"titre_une":"Demain, c'est Big Brother qui conduit",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"LE MONDE",
+	"nature_editoriale":null,
+	"description":"Elle conna\u00eetra le trajet, \u00e9vitera les obstacles, s'int\u00e9grera dans le flux de la circulation... L'auto sans chauffeur, qui semble relever encore de la science-fiction, roulera bient\u00f4t dans les rues.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T15:12:17+01:00",
+	"date_publication":"2013-01-24T15:12:17+01:00",
+	"date_creation":"2013-01-24T13:07:24+01:00",
+	"nb_reactions":0,
+	"illustration_id":1822212,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"demain-c-est-big-brother-qui-conduit",
+	"back_id":"1822135:article:eyJ0aXRyZSI6IkRlbWFpbiwgYydlc3QgQmlnIEJyb3RoZXIgcXVpIGNvbmR1aXQifQ==",
+	"link":"\/vous\/article\/2013\/01\/24\/demain-c-est-big-brother-qui-conduit_1822135_3238.html",
+	"link_reactions":"\/vous\/reactions\/2013\/01\/24\/demain-c-est-big-brother-qui-conduit_1822135_3238.html",
+	"facebook_likes":1,
+	"signatures":[],
+	"element_data":{
+		"auteur":"Olivier Razemon"
+	}
+},{
+	"id":1822004,
+	"titre":"Quatorze nouvelles plaintes contre des fabricants de pilules",
+	"titre_une":"Quatorze nouvelles plaintes contre des fabricants de pilules",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"LE MONDE",
+	"nature_editoriale":{
+		"nom":"enquete",
+		"libelle":"Enqu\u00eate"
+	},
+	"description":"L'une d'elles a \u00e9t\u00e9 d\u00e9pos\u00e9e pour \"homicide involontaire\" par le p\u00e8re d'une lyc\u00e9enne.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T11:26:22+01:00",
+	"date_publication":"2013-01-24T17:52:38+01:00",
+	"date_creation":"2013-01-24T11:20:46+01:00",
+	"nb_reactions":1,
+	"illustration_id":1299966,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"douze-nouvelles-plaintes-contre-des-fabricants-de-pilules",
+	"back_id":"1822004:article:eyJ0aXRyZSI6IlF1YXRvcnplIG5vdXZlbGxlcyBwbGFpbnRlcyBjb250cmUgZGVzIGZhYnJpY2FudHMgZGUgcGlsdWxlcyJ9",
+	"link":"\/sante\/article\/2013\/01\/24\/douze-nouvelles-plaintes-contre-des-fabricants-de-pilules_1822004_1651302.html",
+	"link_reactions":"\/sante\/reactions\/2013\/01\/24\/douze-nouvelles-plaintes-contre-des-fabricants-de-pilules_1822004_1651302.html",
+	"facebook_likes":360,
+	"signatures":[],
+	"element_data":{
+		"auteur":"Pascale Kr\u00e9mer"
+	}
+},{
+	"id":1821576,
+	"titre":"La SNCF ouvre une ligne d'autocars iDBUS entre Paris et Lyon",
+	"titre_une":"La SNCF ouvre une ligne d'autocars iDBUS entre Paris et Lyon",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"Le Monde.fr avec Relaxnews",
+	"nature_editoriale":null,
+	"description":"Trois AR quotidiens entre Paris-Bercy et Lyon et deux AR par jour entre Paris-Charles de Gaulle et Lyon seront assur\u00e9s d\u00e8s le 24 janvier.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T09:56:17+01:00",
+	"date_publication":"2013-01-24T10:22:14+01:00",
+	"date_creation":"2013-01-24T09:22:48+01:00",
+	"nb_reactions":3,
+	"illustration_id":1821581,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"la-sncf-ouvre-une-ligne-d-autocars-idbus-entre-paris-et-lyon",
+	"back_id":"1821576:article:eyJ0aXRyZSI6IkxhIFNOQ0Ygb3V2cmUgdW5lIGxpZ25lIGQnYXV0b2NhcnMgaURCVVMgZW50cmUgUGFyaXMgZXQgTHlvbiJ9",
+	"link":"\/mobilite\/article\/2013\/01\/24\/la-sncf-ouvre-une-ligne-d-autocars-idbus-entre-paris-et-lyon_1821576_1653095.html",
+	"link_reactions":"\/mobilite\/reactions\/2013\/01\/24\/la-sncf-ouvre-une-ligne-d-autocars-idbus-entre-paris-et-lyon_1821576_1653095.html",
+	"facebook_likes":77,
+	"signatures":[],
+	"element_data":{
+		"auteur":null
+	}
+},{
+	"id":1821572,
+	"titre":"3,5 % des b\u00e9n\u00e9ficiaires du cong\u00e9 parental sont des hommes",
+	"titre_une":"3,5 % des b\u00e9n\u00e9ficiaires du cong\u00e9 parental sont des hommes",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"Le Monde.fr avec AFP",
+	"nature_editoriale":null,
+	"description":"Le recours masculin au \"compl\u00e9ment de libre choix d'activit\u00e9\" (CLCA), plus commun\u00e9ment appel\u00e9 cong\u00e9 parental, est rare, souligne une \u00e9tude de la CNAF.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-24T09:31:58+01:00",
+	"date_publication":"2013-01-24T10:39:19+01:00",
+	"date_creation":"2013-01-24T09:13:28+01:00",
+	"nb_reactions":1,
+	"illustration_id":1541401,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"3-5-des-peres-beneficiaires-du-conge-parental",
+	"back_id":"1821572:article:eyJ0aXRyZSI6IjMsNSAlIGRlcyBiXHUwMGU5blx1MDBlOWZpY2lhaXJlcyBkdSBjb25nXHUwMGU5IHBhcmVudGFsIHNvbnQgZGVzIGhvbW1lcyJ9",
+	"link":"\/vous\/article\/2013\/01\/24\/3-5-des-peres-beneficiaires-du-conge-parental_1821572_3238.html",
+	"link_reactions":"\/vous\/reactions\/2013\/01\/24\/3-5-des-peres-beneficiaires-du-conge-parental_1821572_3238.html",
+	"facebook_likes":14,
+	"signatures":[],
+	"element_data":{
+		"auteur":null
+	}
+},{
+	"id":1821463,
+	"titre":"\"Il faut donner \u00e0 l'enfant un temps global d'\u00e9cran par jour\"",
+	"titre_une":"\"Il faut donner \u00e0 l'enfant un temps global d'\u00e9cran par jour\"",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"Le Monde.fr",
+	"nature_editoriale":null,
+	"description":"Dans un chat sur Le Monde.fr, le psychiatre Serge Tisseron estime que l'usage des \u00e9crans par les enfants doit \u00eatre accompagn\u00e9 et l'autor\u00e9gulation encourag\u00e9e.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-23T17:58:52+01:00",
+	"date_publication":"2013-01-24T10:42:00+01:00",
+	"date_creation":"2013-01-23T17:08:19+01:00",
+	"nb_reactions":0,
+	"illustration_id":1157210,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"il-faut-donner-a-l-enfant-un-temps-global-d-ecran-par-jour",
+	"back_id":"1821463:article:eyJ0aXRyZSI6IlwiSWwgZmF1dCBkb25uZXIgXHUwMGUwIGwnZW5mYW50IHVuIHRlbXBzIGdsb2JhbCBkJ1x1MDBlOWNyYW4gcGFyIGpvdXJcIiJ9",
+	"link":"\/technologies\/article\/2013\/01\/23\/il-faut-donner-a-l-enfant-un-temps-global-d-ecran-par-jour_1821463_651865.html",
+	"link_reactions":"\/technologies\/reactions\/2013\/01\/23\/il-faut-donner-a-l-enfant-un-temps-global-d-ecran-par-jour_1821463_651865.html",
+	"facebook_likes":182,
+	"signatures":[],
+	"element_data":{
+		"auteur":"Fran\u00e7ois B\u00e9guin et Martine Laronche (chat mod\u00e9r\u00e9) "
+	}
+},{
+	"id":1821233,
+	"titre":"Les scanners \"d\u00e9shabilleurs\" retir\u00e9s des a\u00e9roports am\u00e9ricains",
+	"titre_une":"Les scanners \"d\u00e9shabilleurs\" retir\u00e9s des a\u00e9roports am\u00e9ricains",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"Le Monde.fr",
+	"nature_editoriale":null,
+	"description":"76 des 250 scanners corporels de Rapiscan Systems, principal fournisseur des a\u00e9roports am\u00e9ricains, ont \u00e9t\u00e9 retir\u00e9s au profit de scanners dot\u00e9s d'une solution logicielle de brouillage.",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-23T14:58:14+01:00",
+	"date_publication":"2013-01-23T14:58:15+01:00",
+	"date_creation":"2013-01-23T12:18:31+01:00",
+	"nb_reactions":0,
+	"illustration_id":1821235,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"les-scanners-deshabilleurs-retires-des-aeroports-americains",
+	"back_id":"1821233:article:eyJ0aXRyZSI6IkxlcyBzY2FubmVycyBcImRcdTAwZTlzaGFiaWxsZXVyc1wiIHJldGlyXHUwMGU5cyBkZXMgYVx1MDBlOXJvcG9ydHMgYW1cdTAwZTlyaWNhaW5zIn0=",
+	"link":"\/mobilite\/article\/2013\/01\/23\/les-scanners-deshabilleurs-retires-des-aeroports-americains_1821233_1653095.html",
+	"link_reactions":"\/mobilite\/reactions\/2013\/01\/23\/les-scanners-deshabilleurs-retires-des-aeroports-americains_1821233_1653095.html",
+	"facebook_likes":23,
+	"signatures":[],
+	"element_data":{
+		"auteur":null
+	}
+},{
+	"id":1821224,
+	"titre":"Phobie du lundi",
+	"titre_une":"Phobie du lundi",
+	"tetiere":null,
+	"tetiere_une":null,
+	"source":"LE MONDE",
+	"nature_editoriale":{
+		"nom":"chronique",
+		"libelle":"Chronique"
+	},
+	"description":"A-t-on jamais entendu quelqu'un avouer qu'il \u00e9tait lundiphobe ? Non... si ce n'est ces sempiternels \"J'aime p\u00f4ooo le lundi\" de ces d\u00e9buts de semaine aux pieds qui tra\u00eenent. Et pourtant...",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-23T14:30:23+01:00",
+	"date_publication":"2013-01-23T14:30:23+01:00",
+	"date_creation":"2013-01-23T12:11:16+01:00",
+	"nb_reactions":3,
+	"illustration_id":1821345,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"phobie-du-lundi",
+	"back_id":"1821224:article:eyJ0aXRyZSI6IlBob2JpZSBkdSBsdW5kaSJ9",
+	"link":"\/vous\/article\/2013\/01\/23\/phobie-du-lundi_1821224_3238.html",
+	"link_reactions":"\/vous\/reactions\/2013\/01\/23\/phobie-du-lundi_1821224_3238.html",
+	"facebook_likes":368,
+	"signatures":[],
+	"element_data":{
+		"auteur":"Marl\u00e8ne Duretz (C'est tout Net !)"
+	}
+},{
+	"id":1821214,
+	"titre":"Interdisons le verglas",
+	"titre_une":"Interdisons le verglas",
+	"tetiere":"Chronique",
+	"tetiere_une":null,
+	"source":"LE MONDE",
+	"nature_editoriale":{
+		"nom":"chronique",
+		"libelle":"Chronique"
+	},
+	"description":"L'Institut de veille sanitaire (InVS) a d\u00e9couvert qu'il y a plus de traumatismes li\u00e9s \u00e0 des chutes... quand il y a du verglas !",
+	"type":{
+		"id":4,
+		"nom":"article",
+		"libelle":"Article"
+	},
+	"date_premiere_publication":"2013-01-23T14:18:49+01:00",
+	"date_publication":"2013-01-23T14:22:14+01:00",
+	"date_creation":"2013-01-23T12:11:01+01:00",
+	"nb_reactions":2,
+	"illustration_id":1289351,
+	"restreint":false,
+	"atome_uniquement":false,
+	"url_friendly":"interdisons-le-verglas",
+	"back_id":"1821214:article:eyJ0aXRyZSI6IkludGVyZGlzb25zIGxlIHZlcmdsYXMifQ==",
+	"link":"\/idees\/article\/2013\/01\/23\/interdisons-le-verglas_1821214_3232.html",
+	"link_reactions":"\/idees\/reactions\/2013\/01\/23\/interdisons-le-verglas_1821214_3232.html",
+	"facebook_likes":27,
+	"signatures":[],
+	"element_data":{
+		"auteur":"Sandrine Blanchard (Vie moderne)"
+	}
+}],
+"nom" : "Style",
+"offset":0,
+"limit":10,
+"data_count":10
+}

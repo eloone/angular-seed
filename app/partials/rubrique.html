@@ -1,4 +1,19 @@
-<p>This is the partial for rubrique.</p>
+<h2>{{rubrique.nom}}</h2>
+<div class="flow">
+    <div ng-repeat="element in rubrique.data" ng-class="{highlight : $index == 0}">
+            <div>
+                    <figure>
+                            <img ng-src="{{element.illustration_src}}"/>
+                    </figure>
+                    <p>
+                            {{element.titre}}
+                    </p>
+                    <p class="chapo">
+                            {{element.description}}
+                    </p>
+            </div>
+    </div>
+</div>
 <p>
   Showing of 'interpolate' filter:
   {{ 'Current version is v%VERSION%.' | interpolate }}

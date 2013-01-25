@@ -6,28 +6,21 @@
   <link rel="stylesheet" href="css/app.css"/>
 </head>
 <body>
-  <ul class="menu">
-    <li><a href="#/view1">view1</a></li>
-    <li><a href="#/view2">view2</a></li>
-  </ul>
-		 
+    <div ng-controller="CtrlSite">		 
   <section class="site_container">
 	  <header>
 			<h1>Mon site : Header fixe</h1>
 			<ul class="menu">
-				<li><a href="#/internatioal">International</a></li>
-				<li><a href="#/politique">Politique</a></li>
-				<li><a href="#/societe">Société</a></li>
-				<li><a href="#/economie">Economie</a></li>
-				<li><a href="#/style">Style</a></li>
+				<li ng-repeat="item in menu"><a ng-click="{{currentIndex = $index}}" href="#/{{item.url}}">{{item.nom}}</a></li>
 			</ul>
 		</header>
 		<div class="view" ng-view></div>
   </section>
 	<nav> 
-		<button class="prev" type="button">Avant</button>
-		<button class="next" type="button">Après</button>
+		<button ng-click="goPrevious()" class="prev" type="button">Avant</button>
+		<button ng-click="goNext()" class="next" type="button">Après</button>
 	</nav>
+    </div>
   <div>Angular seed app: v<span app-version></span></div>
 
   <!-- In production use:
