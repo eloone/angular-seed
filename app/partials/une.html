@@ -1,5 +1,5 @@
 <div ng-controller="CtrlUne">
-	<div ng-repeat="element in elements" ng-class="{highlight : $index == 0}">
+	<div ng-repeat="element in elements.data" ng-class="{highlight : $index == 0}">
 		<div>
 			<figure>
 				<img ng-src="{{element.illustration_src}}"/>

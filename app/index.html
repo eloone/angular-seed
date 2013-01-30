@@ -17,11 +17,10 @@
 		<div class="view" ng-view></div>
   </section>
 	<nav> 
-		<button ng-click="goPrevious()" class="prev" type="button">Avant</button>
+		<button data-ng-click="goPrevious()" class="prev" type="button">Avant</button>
 		<button ng-click="goNext()" class="next" type="button">Après</button>
 	</nav>
     </div>
-  <div>Angular seed app: v<span app-version></span></div>
 
   <!-- In production use:
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.4/angular.min.js"></script>

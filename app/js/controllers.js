@@ -5,7 +5,7 @@
 
 function CtrlUne($scope, $http) {
     $http.get('data/une.json').success(function(query) {
-        $scope.elements = query.data;
+        $scope.elements = query;
     });
 }
 
@@ -13,7 +13,6 @@ function CtrlUne($scope, $http) {
 function CtrlRubrique($scope, $http, $routeParams) {
     $http.get('data/' + $routeParams.rubriqueId + '.json').success(function(data) {
         $scope.rubrique = data;
-    
     });
 }
 
